@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/discompin-project-reactjs/static/css/main.779b34e2.css",
+    "main.js": "/discompin-project-reactjs/static/js/main.af86c29d.js",
+    "static/js/787.214ba1ea.chunk.js": "/discompin-project-reactjs/static/js/787.214ba1ea.chunk.js",
+    "index.html": "/discompin-project-reactjs/index.html",
+    "main.779b34e2.css.map": "/discompin-project-reactjs/static/css/main.779b34e2.css.map",
+    "main.af86c29d.js.map": "/discompin-project-reactjs/static/js/main.af86c29d.js.map",
+    "787.214ba1ea.chunk.js.map": "/discompin-project-reactjs/static/js/787.214ba1ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.779b34e2.css",
+    "static/js/main.af86c29d.js"
+  ]
+}
